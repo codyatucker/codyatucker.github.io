@@ -1,0 +1,64 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+h1, h2, h3, h4, h5, h6,
+{
+font-family: Georgia, Times, "Times New Roman", serif;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 800;
+	line-height: 26px;}
+
+body
+a {
+  color: #a40000;
+  text-decoration: none; }
+  a:visited {
+    color: #a40000; }
+  a:hover {
+    color: #a40000;
+    text-decoration: underline; }
+  .social-media-list a:hover {
+    text-decoration: none; }
+    .social-media-list a:hover .username {
+      text-decoration: underline; }
+
+blockquote {
+  color: #828282;
+  border-left: 4px solid #a40000;
+  padding-left: 15px;
+  font-size: 18px;
+  letter-spacing: 0px;
+  font-style: italic; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+.site-header {
+  border-top: 5px solid #a40000;
+  border-bottom: 3px solid #a40000;
+  min-height: 55.95px;
+  position: relative; }
+
+.site-title {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 35px;
+  font-weight: 800;
+  line-height: 54px;
+  letter-spacing: 0px;
+  margin-bottom: 0;
+  float: left; }
+  .site-title, .site-title:visited {
+    color: #424242; }
+
+.site-nav{
+font-family: Georgia, Times, "Times New Roman", serif;
+font-weight: 600;
+font-style: italic;
+}
+
+.site-footer {
+  border-top: 3px solid #a40000;
+  padding: 30px 0; }
