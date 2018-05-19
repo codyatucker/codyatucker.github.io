@@ -2,7 +2,7 @@
 layout: post
 title:  "Medium suddenly shutters paywall program"
 date:   2018-05-18 16:10:00 -0500
-categories: medium, blogging
+categories: blog
 ---
 
 Jon Russell at [TechCrunch](https://techcrunch.com/2018/05/10/mediums-latest-pivot-leaves-some-independent-media-in-the-lurch/):
