@@ -511,17 +511,17 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 800;
   line-height: 26px; }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h3 a {
   color: #111;
   text-decoration: none; }
-h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
+h3 a:visited {
   color: #111; }
-h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+h3 a:hover {
   color: #111;
   text-decoration: underline; }
-h1 .social-media-list a:hover, h2 .social-media-list a:hover, h3 .social-media-list a:hover, h4 .social-media-list a:hover, h5 .social-media-list a:hover, h6 .social-media-list a:hover {
+h3 .social-media-list a:hover {
   text-decoration: none; }
-h1 .social-media-list a:hover .username, h2 .social-media-list a:hover .username, h3 .social-media-list a:hover .username, h4 .social-media-list a:hover .username, h5 .social-media-list a:hover .username, h6 .social-media-list a:hover .username {
+h3 .social-media-list a:hover .username {
   text-decoration: underline; }
 
 body
