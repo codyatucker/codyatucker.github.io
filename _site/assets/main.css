@@ -511,18 +511,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 800;
   line-height: 26px; }
 
-h3 a {
-  color: #111;
-  text-decoration: none; }
-h3 a:visited {
-  color: #111; }
-h3 a:hover {
-  color: #111;
-  text-decoration: underline; }
-h3 .social-media-list a:hover {
-  text-decoration: none; }
-h3 .social-media-list a:hover .username {
-  text-decoration: underline; }
+a {
+  color: #111 !important; }
+  a:hover {
+    color: #111 !important; }
 
 body
 a {
@@ -541,6 +533,12 @@ a:hover {
 
 .social-media-list a:hover .username {
   text-decoration: underline; }
+
+p a {
+  color: #a40000 !important; }
+
+li p a {
+  color: #a40000 !important; }
 
 blockquote {
   color: #828282;
