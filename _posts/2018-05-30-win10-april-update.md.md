@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Windows 10 April 2018 update adoption soars”
+title: Windows 10 April 2018 update adoption soars
 link: https://arstechnica.com/gadgets/2018/05/half-of-windows-10-pcs-already-updated-to-the-april-2018-update/
 date: 2018-05-30 22:14:29 -0500
 categories: blog
