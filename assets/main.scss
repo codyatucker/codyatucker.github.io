@@ -79,8 +79,9 @@ font-style: italic;
 	.post-title {
 	font-size: 25px;
 	letter-spacing: 0px;
-	line-height: 1; }
+	line-height: 1.2; }
 	@media screen and (max-width: 800px) {
 		.post-title {
-			font-size: 25px; }
+			font-size: 22px;
+			line-height: 1.2 }
 }
