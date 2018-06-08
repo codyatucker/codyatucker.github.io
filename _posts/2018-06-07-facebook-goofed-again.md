@@ -2,6 +2,7 @@
 layout: post
 title: Facebook error exposed posts from 14 million people
 date: 2018-06-07 22:11:19 -0500
+link: https://arstechnica.com/information-technology/2018/04/tens-of-thousands-of-facebook-accounts-compromised-in-days-by-malware/
 categories: blog
 ---
 Dan Goodin:
