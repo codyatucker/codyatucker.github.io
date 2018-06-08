@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook error exposed posts from 14 millions people
+title: Facebook error exposed posts from 14 million people
 date: 2018-06-07 22:11:19 -0500
 categories: blog
 ---
