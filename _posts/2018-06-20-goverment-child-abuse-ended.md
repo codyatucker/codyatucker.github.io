@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Trump signs order aimed at ending immigrant family separation”
+title: Trump signs order aimed at ending immigrant family separation
 date: 2018-06-20 19:23:30 -0500
 link: https://www.washingtonpost.com/powerpost/gop-leaders-voice-hope-that-bill-addressing-family-separations-will-pass-thursday/2018/06/20/cc79db9a-7480-11e8-b4b7-308400242c2e_story.html
 categories: blog
