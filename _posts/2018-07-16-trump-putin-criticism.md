@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “ Trump backs Putin on election meddling at summit, stirs fierce criticism”
+title: “Trump backs Putin on election meddling at summit, stirs fierce criticism”
 date: 2018-07-16 22:19:27 -0500
 link: https://www.reuters.com/article/us-usa-russia-summit/shock-alarm-as-trump-backs-putin-on-election-meddling-at-summit-idUSKBN1K601D?feedType=RSS&feedName=politicsNews
 categories: blog
