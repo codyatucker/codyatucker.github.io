@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “ Pope Francis Declares Death Penalty Unacceptable in All Cases ”
+title: “Pope Francis Declares Death Penalty Unacceptable in All Cases”
 date: 2018-08-05 21:06:40 -0500
 link: https://www.nytimes.com/2018/08/02/world/europe/pope-death-penalty.html
 categories: blog
