@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puerto Rico official death toll from Hurricane Maria surges to 1,427"
+title: Puerto Rico official death toll from Hurricane Maria surges to 1,427
 date: 2018-08-09 21:56:18 -0500
 link: http://www.chicagotribune.com/news/nationworld/ct-puerto-rico-hurricane-maria-death-toll-20180809-story.html
 categories: blog
