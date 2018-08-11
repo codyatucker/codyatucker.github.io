@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One million Chinese Uighers allegedly held in camps
+title: One million Chinese Uighurs allegedly held in camps
 date: 2018-08-10 22:20:42 -0500
 link: https://www.bbc.com/news/world-asia-china-45147972
 categories: blog
