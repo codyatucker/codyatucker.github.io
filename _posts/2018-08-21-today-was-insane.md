@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Today was insane“
+title: Today was insane
 date: 2018-08-21 20:33:20 -0500
 categories: blog
 ---
