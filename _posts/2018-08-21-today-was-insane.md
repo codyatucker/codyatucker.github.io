@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today was insane
+title: A most insane day
 date: 2018-08-21 20:33:20 -0500
 categories: blog
 ---
