@@ -4,7 +4,7 @@ title: “John McCain’s Farewell Statement”
 date: 2018-08-27 18:17:42 -0500
 link: https://www.nytimes.com/2018/08/27/us/politics/john-mccain-farewell-statement.html?partner=rss&emc=rss
 categories: blog
-—
+---
 
 >‘Fellow Americans’ — that association has meant more to me than any other. I lived and died a proud American. We are citizens of the world’s greatest republic, a nation of ideals, not blood and soil. We are blessed and are a blessing to humanity when we uphold and advance those ideals at home and in the world. We have helped liberate more people from tyranny and poverty than ever before in history. We have acquired great wealth and power in the process.
 >
