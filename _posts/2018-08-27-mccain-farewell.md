@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “John McCain’s Farewell Statement”
+title: John McCain’s Farewell Statement
 date: 2018-08-27 18:17:42 -0500
 link: https://www.nytimes.com/2018/08/27/us/politics/john-mccain-farewell-statement.html?partner=rss&emc=rss
 categories: blog
