@@ -4,7 +4,7 @@ title: “ Bob Woodward’s new book reveals a ‘nervous breakdown’ of Trump�
 date: 2018-09-04 19:07:28 -0500
 link: https://www.washingtonpost.com/politics/bob-woodwards-new-book-reveals-a-nervous-breakdown-of-trumps-presidency/2018/09/04/b27a389e-ac60-11e8-a8d7-0f63ab8b1370_story.html?hpid=hp_hp-top-table-high_woodward-1120a%3Ahomepage%2Fstory-ans
 categories: blog
-——-
+---
 Robert Costa:
 
 >At a National Security Council meeting on Jan. 19, Trump disregarded the significance of the massive U.S. military presence on the Korean Peninsula, including a special intelligence operation that allows the United States to detect a North Korean missile launch in seven seconds vs. 15 minutes from Alaska, according to Woodward. Trump questioned why the government was spending resources in the region at all.
