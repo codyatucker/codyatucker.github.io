@@ -1,8 +1,8 @@
 ---
 layout: post
-title: “ Bob Woodward’s new book reveals a ‘nervous breakdown’ of Trump’s presidency”
+title: “Bob Woodward’s new book reveals a ‘nervous breakdown’ of Trump’s presidency”
 date: 2018-09-04 19:07:28 -0500
-link: https://www.washingtonpost.com/politics/bob-woodwards-new-book-reveals-a-nervous-breakdown-of-trumps-presidency/2018/09/04/b27a389e-ac60-11e8-a8d7-0f63ab8b1370_story.html?hpid=hp_hp-top-table-high_woodward-1120a%3Ahomepage%2Fstory-ans
+link: https://www.washingtonpost.com/politics/bob-woodwards-new-book-reveals-a-nervous-breakdown-of-trumps-presidency/2018/09/04/b27a389e-ac60-11e8-a8d7-0f63ab8b1370_story.html?
 categories: blog
 ---
 Robert Costa:
