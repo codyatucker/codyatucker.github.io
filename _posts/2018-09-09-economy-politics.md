@@ -1,10 +1,10 @@
-——- 
+---
 layout: post
 title: On taking credit for the economy
 date: 2018-09-09 21:51:08 -0500
 link: https://www.nytimes.com/2018/09/09/us/politics/trump-obama-economy.html
 categories: blog
-——-
+---
 Peter Baker:
 
 >In the 19 months starting after Mr. Trump’s inauguration, the economy has created 3.58 million new jobs — but that is still shy of the 3.96 million created in the last 19 months of Mr. Obama’s presidency. The nation’s economy has grown at a steadily higher pace in the past year than it did during the end of Mr. Obama’s term, reaching an annualized rate of 4.2 percent in the second quarter of this year. But the last time it was that high was in 2014 — when Mr. Obama was in charge.
