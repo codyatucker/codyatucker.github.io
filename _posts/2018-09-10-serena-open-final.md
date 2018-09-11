@@ -4,7 +4,7 @@ title: “What Serena Got Wrong”
 date: 2018-09-10 19:13:06 -0500
 link: https://www.nytimes.com/2018/09/10/opinion/martina-navratilova-serena-williams-us-open.html
 categories: blog
-——-
+---
 Martina Navratilova:
 
 >It was a few games later when matters really escalated. Williams lost her serve at 3-1 up and demolished her racket — an automatic code violation that, because it came on top of an earlier warning, resulted in the automatic loss of one point.
