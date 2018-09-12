@@ -4,7 +4,7 @@ title: “More Than 2,000 Puerto Ricans Applied For Funeral Assistance After Hur
 date: 2018-09-11 20:12:06 -0500
 link: https://www.buzzfeednews.com/article/nidhiprakash/puerto-rico-hurricane-funeral-assistance-fema
 categories: blog
-——-
+---
 Nidhi Prakash:
 
 >Although Long did not give a specific reason in his letter for the rejections, he pointed to FEMA’s requirements for funeral assistance. To qualify, Puerto Ricans had to provide a death certificate or letter from a government official “that clearly indicates the death was attributed to the emergency or disaster, either directly or indirectly,” Long wrote in the letter obtained by BuzzFeed News, which he wrote on behalf of FEMA and the Department of Health and Human Services.
