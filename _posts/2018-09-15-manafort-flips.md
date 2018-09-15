@@ -4,7 +4,7 @@ title: Manafort flips
 date: 2018-09-15 07:30:15 -0500
 link: https://www.nytimes.com/2018/09/14/us/politics/manafort-plea-deal.html
 categories: blog
-——-
+---
 Sharon LaFraniere and Kenneth P. Vogel:
 
 > Mr. Manafort’s decision, announced at a federal court hearing in Washington in which he pleaded guilty to two conspiracy charges, was likely to unsettle Mr. Trump, who had praised Mr. Manafort for standing up to prosecutors’ pressure and had hinted that he might pardon him.
