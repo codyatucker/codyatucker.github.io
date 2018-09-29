@@ -5,7 +5,7 @@ date: 2018-09-28 21:15:44 -0500
 link: https://www.npr.org/2018/09/28/652631686/facebook-says-security-breach-affected-almost-50-million-accounts
 categories: blog
 ---
-Camila Domonoske
+Camila Domonoske:
 
 >Facebook says that it has discovered a security breach affecting nearly 50 million accounts and that it's not yet clear whether any information was accessed or any accounts were otherwise misused.
 >
