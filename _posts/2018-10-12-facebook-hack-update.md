@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 29 million Facebook users affected in hack update
+title: 29 million Facebook users affected in updated hack figure
 date: 2018-10-12 13:18:30 -0500
 link: https://www.recode.net/2018/10/12/17968434/facebook-security-hack-update-personal-data-million-fbi-investigation
 categories: blog
