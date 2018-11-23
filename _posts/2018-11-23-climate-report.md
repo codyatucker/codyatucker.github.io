@@ -4,7 +4,7 @@ title: Catastrophic government climate report released on slowest news day of th
 date: 2018-11-23 13:12:13 -0500
 link: https://www.washingtonpost.com/energy-environment/2018/11/23/major-trump-administration-climate-report-says-damages-are-intensifying-across-country/?tidr=a_breakingnews&hpid=hp_no-name_hp-breaking-news%3Apage%2Fbreaking-news-bar
 categories: blog
-——-
+---
 Brad Dennis and Chris Mooney:
 
 > The White House did not immediately respond to a request for comment on Friday’s report. However, the administration last year downplayed a separate government report calling human activity the dominant driver of global warming, saying in a statement that “the climate has changed and is always changing.”
