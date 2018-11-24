@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! “Fights, escapes, harm: Migrant kids struggle in facilities”
+title: “Migrant kids struggle in facilities”
 date: 2018-11-24 17:24:37 -0500
 link: https://www.apnews.com/d192b773ac364829962e6db61a5736a5
 categories: blog
