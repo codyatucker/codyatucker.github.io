@@ -17,6 +17,6 @@ And in a separate case on Friday, the special counsel accused Paul Manafort, Mr.
 >
 >Together, the filings laid bare the most direct evidence to date linking Mr. Trump to potentially criminal conduct, and added to an already substantial case that Russia was seeking to sway the 2016 election in his favor.
 
-In a column for the Washington Post, Marcy Wheeler makes that case the Mueller is laying how report [“one indictment at a time”](https://www.washingtonpost.com/outlook/2018/12/07/mueller-has-already-issued-most-his-report-one-indictment-time/).
+In a column for the Washington Post, Marcy Wheeler makes that case the Mueller is laying out his report [“one indictment at a time”](https://www.washingtonpost.com/outlook/2018/12/07/mueller-has-already-issued-most-his-report-one-indictment-time/).
 
 >But Mueller has already been submitting his report, piece by piece, in indictments and other charging documents. He has hidden it in plain sight in the court dockets of individuals and organizations he has prosecuted. Many of those court papers have included far more detail than necessary to prove the culpability of defendants who have agreed to plead guilty. This isn’t just legal overkill on Mueller’s part — it’s the outlines of a sweeping narrative about the 2016 election.
