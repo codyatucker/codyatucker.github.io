@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Overcast 5.1 with Instant Search
