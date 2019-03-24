@@ -13,4 +13,4 @@ NY Times:
 >
 >“While this report does not conclude that the president committed a crime, it also does not exonerate him,” Mr. Barr quoted Mr. Mueller as writing.
 
-It appears Mueller found insufficient evidence to determine intent to conspire with Russia to influence the election, despite Russia's attempts to do just that. He also punted on the question of obstruction, possibly due to the question of whether or not a sitting president can be indicted on such a charge. Thus, the obstruction question is left to Congress, and thrust squarely into the political foil in the run-up to the 2020 elections. 
+It appears Mueller found insufficient evidence of intent to conspire with Russia to influence the election, despite Russia's attempts to do just that. He also punted on the question of obstruction, possibly due to the question of whether or not a sitting president can be indicted on such a charge. Thus, the obstruction question is left to Congress, and thrust squarely into the political foil in the run-up to the 2020 elections. 
