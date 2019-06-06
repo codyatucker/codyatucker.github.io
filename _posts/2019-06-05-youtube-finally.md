@@ -2,8 +2,7 @@
 layout: post
 title: "YouTube decides that hate and abuse is bad"
 date: 2019-06-05 16:12:09 -0500
-link: https://youtube.googleblog.com/2019/06/our-ongoing-work-to-tackle-hate.
-html
+link: https://youtube.googleblog.com/2019/06/our-ongoing-work-to-tackle-hate.html
 categories: blog
 ---
 From YouTube's official blog:
