@@ -17,9 +17,9 @@ From YouTube's official blog:
 >we will remove content denying that well-documented violent events,
 >like the Holocaust or the shooting at Sandy Hook Elementary, took
 >place.
->
+
 It's absurd that it's taken so many years for YouTube (and Twitter and
-Facebook) to finally make a move like this. This is basic stuff, yet these companies have spent roughly a decade showing an utter lack of understanding of the effects the rampant spread of misinformation has had on society. It's literally lead to survivors being [abused online](https://www.necn.com/entertainment/entertainment-news/Jesse-Hughes-slams-Parkland-shooting-survivors--477949183.html) or in person, and even [killed]().
+Facebook) to finally make a move like this. This is basic stuff, yet these companies have spent roughly a decade showing an utter lack of understanding of the effects the rampant spread of misinformation has had on society. It's lead to survivors being [abused online](https://www.necn.com/entertainment/entertainment-news/Jesse-Hughes-slams-Parkland-shooting-survivors--477949183.html) or in person, and even [killed](https://www.theguardian.com/us-news/2017/aug/12/virginia-unite-the-right-rally-protest-violence).
 
 They should all be ashamed of themselves, and so too should we all for spending our time on their services while this literal tragedy played out before our eyes.
 
