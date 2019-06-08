@@ -58,14 +58,14 @@ blockquote {
   max-width: calc(800px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: 20px;
-  padding-left: 20px; }
+  padding-right: 30px;
+  padding-left: 3px; }
   @media screen and (max-width: 800px) {
     .wrapper {
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
-      padding-right: 50px;
-      padding-left: 50px; } }
+      padding-right: 30px;
+      padding-left: 30px; } }    
 
 .site-header {
   border-top: 5px solid #a40000;
