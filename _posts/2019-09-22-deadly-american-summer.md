@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inside a DeadlyAmerican Summer"
+title: "Inside a Deadly American Summer"
 date: 2019-09-22 00:13:35 -0500
 link: https://www.nytimes.com/interactive/2019/09/21/us/summer-mass-shootings.html
 categories: blog
