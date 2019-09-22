@@ -9,4 +9,4 @@ Sobering piece by Mitch Smith of the New York Times:
 
 >During the unofficial summer season, between Memorial Day and Labor Day, America endured 26 mass shootings in 18 states. One massacre followed another, sometimes on the very same day. In sudden bursts of misery, they played out in big cities, along rural roads, inside trim suburbs. They left behind shaken neighborhoods, tearful memorials and calls for change, but little concrete action.
 
-This is among the most defining issues of our time. People will look back on our inaction with sadness, confusion and anger. Rightly so. 
+This is perhaps the most defining issue of our time. People will look back on our inaction with sadness, confusion and anger. Rightly so. 
