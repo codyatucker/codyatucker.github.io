@@ -2,7 +2,7 @@
 layout: post
 title: "Inside a DeadlyAmerican Summer"
 date: 2019-09-22 00:13:35 -0500
-link:
+link: https://www.nytimes.com/interactive/2019/09/21/us/summer-mass-shootings.html
 categories: blog
 ---
 Sobering piece by Mitch Smith of the New York Times:
