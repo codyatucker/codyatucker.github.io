@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-07T23:01:59-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cody Tucker</title><subtitle>News. Tech. Guitars. Sport. Coffee. Bagels.</subtitle><entry><title type="html">YouTube decides that hate and abuse is bad</title><link href="http://localhost:4000/blog/2019/06/05/youtube-finally.html" rel="alternate" type="text/html" title="YouTube decides that hate and abuse is bad" /><published>2019-06-05T16:12:09-05:00</published><updated>2019-06-05T16:12:09-05:00</updated><id>http://localhost:4000/blog/2019/06/05/youtube-finally</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/05/youtube-finally.html">&lt;p&gt;From YouTube’s official blog:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T20:49:36-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cody Tucker</title><subtitle>News. Tech. Guitars. Sport. Coffee. Bagels.</subtitle><entry><title type="html">Inside a Deadly American Summer</title><link href="http://localhost:4000/blog/2019/09/22/deadly-american-summer.html" rel="alternate" type="text/html" title="Inside a Deadly American Summer" /><published>2019-09-22T00:13:35-05:00</published><updated>2019-09-22T00:13:35-05:00</updated><id>http://localhost:4000/blog/2019/09/22/deadly-american-summer</id><content type="html" xml:base="http://localhost:4000/blog/2019/09/22/deadly-american-summer.html">&lt;p&gt;Sobering piece by Mitch Smith of the New York Times:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;During the unofficial summer season, between Memorial Day and Labor Day, America endured 26 mass shootings in 18 states. One massacre followed another, sometimes on the very same day. In sudden bursts of misery, they played out in big cities, along rural roads, inside trim suburbs. They left behind shaken neighborhoods, tearful memorials and calls for change, but little concrete action.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is perhaps the most defining issue of our time. People will look back on our inaction with sadness, confusion and anger. Rightly so.&lt;/p&gt;</content><author><name></name></author><summary type="html">Sobering piece by Mitch Smith of the New York Times:</summary></entry><entry><title type="html">Kuo: All Three iPhones Coming in 2020 Will Support 5G</title><link href="http://localhost:4000/blog/2019/07/28/iphone-5g.html" rel="alternate" type="text/html" title="Kuo: All Three iPhones Coming in 2020 Will Support 5G" /><published>2019-07-28T12:54:22-05:00</published><updated>2019-07-28T12:54:22-05:00</updated><id>http://localhost:4000/blog/2019/07/28/iphone-5g</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/28/iphone-5g.html">&lt;p&gt;Juli Clover at MacRumors:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The three iPhones expected to launch in 2020 will feature support for 5G, according to a new note to investors shared today by Apple analyst Ming-Chi Kuo and obtained by MacRumors.&lt;/p&gt;
+
+  &lt;p&gt;Kuo originally said that two of the three new iPhones coming in 2020 will support 5G, but now believes that Apple will offer 5G in all models to better compete with lower-cost Android smartphones that will support 5G. Kuo also says that following Apple’s acquisition of Intel’s smartphone modem chip business, Apple has more resources for developing the 5G iPhone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I wonder if they’ll name this one “iPhone 5G”. They obviously didn’t do an “iPhone 4G” or “iPhone LTE”, but with all the buzz around 5G, it might be a decent way to get away from this awkward numbered naming pattern.&lt;/p&gt;</content><author><name></name></author><summary type="html">Juli Clover at MacRumors:</summary></entry><entry><title type="html">Raspberry Pi 4</title><link href="http://localhost:4000/blog/2019/06/24/raspberry-pi-4.html" rel="alternate" type="text/html" title="Raspberry Pi 4" /><published>2019-06-24T22:04:23-05:00</published><updated>2019-06-24T22:04:23-05:00</updated><id>http://localhost:4000/blog/2019/06/24/raspberry-pi-4</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/24/raspberry-pi-4.html">&lt;p&gt;This is just delightful. Not only is it the long-awaited update we all wanted, but the company boldly calls it “Your new desktop computer”:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The speed and performance of the new Raspberry Pi 4 is a step up from earlier models. For the first time, we’ve built a complete desktop experience. Whether you’re editing documents, browsing the web with a bunch of tabs open, juggling spreadsheets or drafting a presentation, you’ll find the experience smooth and very recognisable — but on a smaller, more energy-efficient and much more cost-effective machine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dual-display support, up to 4GB of ram for $55, with the 1GB RAM model starting at the classic $35 price point.&lt;/p&gt;
+
+&lt;p&gt;I wonder if they should have limited their options in favor of a singular model with, say, 2GB of RAM. The iPhone XR reportedly runs &lt;a href=&quot;https://www.cultofmac.com/576127/iphone-xs-max-xr-benchmark-geekbench-ram/&quot;&gt;3GB of RAM&lt;/a&gt;, though they’re obviously two wildly different devices.&lt;/p&gt;
+
+&lt;p&gt;There’s no point being speculative here. I just love that the Raspberry Pi exists.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is just delightful. Not only is it the long-awaited update we all wanted, but the company boldly calls it “Your new desktop computer”:</summary></entry><entry><title type="html">Apple pushes firmware update to discontinued AirPort Extreme</title><link href="http://localhost:4000/blog/2019/06/21/airport-update.html" rel="alternate" type="text/html" title="Apple pushes firmware update to discontinued AirPort Extreme" /><published>2019-06-21T07:17:54-05:00</published><updated>2019-06-21T07:17:54-05:00</updated><id>http://localhost:4000/blog/2019/06/21/airport-update</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/21/airport-update.html">&lt;p&gt;Juli Clover at Macrumors:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apple promised to continue offering service and parts for AirPort Base stations for the next five years, which includes firmware updates to address security issues.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I had a Linksys EA7500 with all the dual-band, 1.9Gbps MU-MIMO WiFi features. It would often stop working, forcing me to perform a hard reset and the wait for it to inevitably crap out again. It’s last firmware update was 8/29/18, and it’s not comparable with Open-WRT.&lt;/p&gt;
+
+&lt;p&gt;The last time it stopped working, I gave up and set out for a new router. I live in a small apartment and don’t need anything fancy. Most of my devices are wired via Ethernet, with my phone and iPad using WiFi.&lt;/p&gt;
+
+&lt;p&gt;A local buy/sell/trade store had a stack of 2011-12 Airport Extreme’s for $10 with a 30-day return policy. I took the chance and got the newest one they had. It’s been working like a champ since I got it, &lt;strong&gt;and it just received a security update&lt;/strong&gt;! Amazing.&lt;/p&gt;</content><author><name></name></author><summary type="html">Juli Clover at Macrumors:</summary></entry><entry><title type="html">Tim Cook: Technology companies need to take responsibility for chaos they create</title><link href="http://localhost:4000/blog/2019/06/16/tim-cook-Stanford.html" rel="alternate" type="text/html" title="Tim Cook: Technology companies need to take responsibility for chaos they create" /><published>2019-06-16T21:03:52-05:00</published><updated>2019-06-16T21:03:52-05:00</updated><id>http://localhost:4000/blog/2019/06/16/tim-cook-Stanford</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/16/tim-cook-Stanford.html">&lt;p&gt;CNBC reporting on Cook’s speech at Stanford:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Lately it seems this industry is becoming better known for a less noble innovation – the belief you can claim credit without accepting responsibility,” Cook said. “We see it every day now with every data breach, every privacy violation, every blind eye turned to hate speech, fake news poisoning out national conversation, the false miracles in exchange for a single drop of your blood.”&lt;/p&gt;
+
+  &lt;p&gt;He continued: “It feels a bit crazy that anyone should have to say this, but if you built a chaos factory, you can’t dodge responsibility for the chaos.”&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">CNBC reporting on Cook’s speech at Stanford:</summary></entry><entry><title type="html">John Stewart Opening Statement on 9/11 Victim’s Compensation Fund</title><link href="http://localhost:4000/blog/2019/06/12/stewart-congress.html" rel="alternate" type="text/html" title="John Stewart Opening Statement on 9/11 Victim's Compensation Fund" /><published>2019-06-12T22:21:33-05:00</published><updated>2019-06-12T22:21:33-05:00</updated><id>http://localhost:4000/blog/2019/06/12/stewart-congress</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/12/stewart-congress.html">&lt;p&gt;A powerful monologue:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As I sit here today, I can’t help but think what an incredible metaphor this room is for the entire process that getting healthcare and benefits for 9/11 first responders has come to. Behind me, a filled room of 9/11 first responders and in front of me a nearly empty Congress.&lt;/p&gt;
+
+  &lt;p&gt;Shameful. It’s an embarrassment to the country and it is a stain on this institution. You should be ashamed of yourselves, for those that aren’t here, but you won’t be. Because accountability doesn’t appear to be something that occurs in this chamber.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">A powerful monologue:</summary></entry><entry><title type="html">YouTube decides that hate and abuse is bad</title><link href="http://localhost:4000/blog/2019/06/05/youtube-finally.html" rel="alternate" type="text/html" title="YouTube decides that hate and abuse is bad" /><published>2019-06-05T16:12:09-05:00</published><updated>2019-06-05T16:12:09-05:00</updated><id>http://localhost:4000/blog/2019/06/05/youtube-finally</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/05/youtube-finally.html">&lt;p&gt;From YouTube’s official blog:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Today, we’re taking another step in our hate speech
@@ -44,72 +90,4 @@ Facebook) to finally make a move like this. This is basic stuff, yet these compa
   &lt;p&gt;A buyback program will be launched to take existing weapons out of circulation, and gun owners who do not comply will be subject to fines, she said.&lt;/p&gt;
 
   &lt;p&gt;“On 15 March, our history changed forever. Now, our laws will, too,” Ardern said. “We are announcing action today on behalf of all New Zealanders to strengthen our gun laws and make our country a safer place.”&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Anna Fifield at the Washington Post:</summary></entry><entry><title type="html">What should we call tourists in space?</title><link href="http://localhost:4000/blog/2019/03/05/tourists-in-space.html" rel="alternate" type="text/html" title="What should we call tourists in space?" /><published>2019-03-05T11:25:12-06:00</published><updated>2019-03-05T11:25:12-06:00</updated><id>http://localhost:4000/blog/2019/03/05/tourists-in-space</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/05/tourists-in-space.html">&lt;p&gt;When I first read &lt;a href=&quot;https://arstechnica.com/science/2019/03/soon-hundreds-of-tourists-will-go-to-space-what-should-we-call-them/&quot;&gt;this headline from Ars Technica&lt;/a&gt;, I thought “obviously they’re tourists,” but the piece raises interesting questions:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;For now, there remains no official word on what to call non-crew members. Are they astronauts, too? Space passengers? Astro-nots? In the hopes of finding a consensus, we put that precise question to the companies, some bonafide NASA astronauts, and some experts in the aerospace community.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;My instinct is to argue argue that these people should absolutely &lt;strong&gt;not&lt;/strong&gt; be called astronauts. That distinction should be reserved for those who’ve earned it through a life-long journey of rigorous training specifically geared for space flight.&lt;/p&gt;
-
-&lt;p&gt;However, the early consensus is the opposite:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nicole Stott flew two missions to space, spending more than three months on the International Space Station in 2009, then serving as a mission specialist on space shuttle Discovery’s final flight in February 2011. During her stint on the station, Stott became the first person to paint what she saw out the window while in space. Later, after retiring from NASA, she became a founder of the Space for Art Foundation.&lt;/p&gt;
-
-  &lt;p&gt;“I think it’s simple: if they get to ‘space,’ they’re an astronaut,” she told Ars. “We’re at a time where the opportunity for traveling to space is opening up to more people. Whether you are traveling to space as a professional who lives and works there or as someone just visiting, it seems the simplest approach is the best.”&lt;/p&gt;
-
-  &lt;p&gt;Over time, this may need to evolve, she said. When there are many people living, working, and visiting space, there may need to be some distinction between the space professional and the visitor classification. But for now, “astronaut” works for everyone. This seems significant, coming from Stott, who was selected as an astronaut in 2000 and flew into space after nine years of training.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Instead, it looks like the industry is preparing to find new definitions for an influx of a wide variety of space travelers, and that’s incredibly exciting.&lt;/p&gt;</content><author><name></name></author><summary type="html">When I first read this headline from Ars Technica, I thought “obviously they’re tourists,” but the piece raises interesting questions:</summary></entry><entry><title type="html">NASA, Space X inch closer to human space travel</title><link href="http://localhost:4000/blog/2019/03/02/spacex-nasa-test.html" rel="alternate" type="text/html" title="NASA, Space X inch closer to human space travel" /><published>2019-03-02T09:30:34-06:00</published><updated>2019-03-02T09:30:34-06:00</updated><id>http://localhost:4000/blog/2019/03/02/spacex-nasa-test</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/02/spacex-nasa-test.html">&lt;p&gt;Kenneth Chang, New York Times:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The first American spacecraft capable of carrying astronauts since the retirement of the space shuttles launched early Saturday. A successful mission could put NASA and the United States on the cusp of a renewed era of human spaceflight.&lt;/p&gt;
-
-  &lt;p&gt;…&lt;/p&gt;
-
-  &lt;p&gt;SpaceX has another high-stakes uncrewed test scheduled for June. The same capsule will again launch on top of a Falcon 9 rocket, but the flight will simulate a malfunction in the rocket high in the atmosphere. The escape system is to then propel the capsule to safety.&lt;/p&gt;
-
-  &lt;p&gt;If that test succeeds, then perhaps as soon as July, two NASA astronauts, Robert L. Behnken and Douglas G. Hurley, are to make a demonstration flight to the space station. “Seeing a success like this definitely gives us a lot of confidence in the future,” Mr. Behnken said at the news conference.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Kenneth Chang, New York Times:</summary></entry><entry><title type="html">Overcast 5.1 with Instant Search</title><link href="http://localhost:4000/blog/2019/02/16/overcast-instant-search.html" rel="alternate" type="text/html" title="Overcast 5.1 with Instant Search" /><published>2019-02-16T19:14:48-06:00</published><updated>2019-02-16T19:14:48-06:00</updated><id>http://localhost:4000/blog/2019/02/16/overcast-instant-search</id><content type="html" xml:base="http://localhost:4000/blog/2019/02/16/overcast-instant-search.html">&lt;p&gt;Marco Arment:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I’m not satisfied if the podcast you’re looking for is somewhere in the middle of a long list — I want it to be the first one, displayed quickly, after typing the fewest characters possible. I’ve been building toward this by analyzing years of popularity statistics and anonymous search data.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you ship a feature with the word “instant” in the title, it better deliver. In this case, the new Instant Search feature is &lt;em&gt;instant&lt;/em&gt;. It’s actually sort of fun to just search for things, just to see how fast the results arrive.&lt;/p&gt;</content><author><name></name></author><summary type="html">Marco Arment:</summary></entry><entry><title type="html">New study finds no link between video games and aggressive behavior</title><link href="http://localhost:4000/blog/2019/02/14/video-game-violence-link.html" rel="alternate" type="text/html" title="New study finds no link between video games and aggressive behavior" /><published>2019-02-14T14:47:44-06:00</published><updated>2019-02-14T14:47:44-06:00</updated><id>http://localhost:4000/blog/2019/02/14/video-game-violence-link</id><content type="html" xml:base="http://localhost:4000/blog/2019/02/14/video-game-violence-link.html">&lt;p&gt;Alex Matthews-King:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The idea that violent video games drive real-world aggression is a popular one, but it hasn’t tested very well over time,” says lead researcher Professor Andrew Przybylski, director of research at the Oxford Internet Institute.&lt;/p&gt;
-
-  &lt;p&gt;“Despite interest in the topic by parents and policy-makers, the research has not demonstrated that there is cause for concern.”&lt;/p&gt;
-
-  &lt;p&gt;But he did say games could provoke angry outbursts while playing online. “Anecdotally, you do see things such as trash-talking, competitiveness and trolling in gaming communities that could qualify as antisocial behaviour,” he added.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Using myself as an example, such angry outbursts can be addressed by treating existing issues—preferably early in life.&lt;/p&gt;</content><author><name></name></author><summary type="html">Alex Matthews-King:</summary></entry><entry><title type="html">Federal court strikes down FCC bid against tribal broadband program</title><link href="http://localhost:4000/blog/2019/02/04/court-blocks-fcc.html" rel="alternate" type="text/html" title="Federal court strikes down FCC bid against tribal broadband program" /><published>2019-02-04T21:02:03-06:00</published><updated>2019-02-04T21:02:03-06:00</updated><id>http://localhost:4000/blog/2019/02/04/court-blocks-fcc</id><content type="html" xml:base="http://localhost:4000/blog/2019/02/04/court-blocks-fcc.html">&lt;p&gt;John Brodkin:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The Pai FCC’s 2017 decision would have limited the $25 subsidy to “facilities-based” carriers—those that build their own networks—making it impossible for tribal residents to use the $25 subsidy to buy telecom service from resellers. The move would have dramatically limited tribal residents’ options for purchasing subsidized service, but the FCC claimed it was necessary in order to encourage carriers to build their own networks.&lt;/p&gt;
-
-  &lt;p&gt;The same FCC decision also would have eliminated the $25 subsidy in urban areas, reserving it only for tribal lands in rural areas. The court’s decision Friday, in response to an appeal filed by tribal organizations and small wireless carriers, overturned both of these limitations.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">John Brodkin:</summary></entry><entry><title type="html">Prosecutors Say Trump Directed Illegal Payments During Campaign</title><link href="http://localhost:4000/blog/2018/12/08/08-trump-felony-link.html" rel="alternate" type="text/html" title="Prosecutors Say Trump Directed Illegal Payments During Campaign" /><published>2018-12-08T19:58:14-06:00</published><updated>2018-12-08T19:58:14-06:00</updated><id>http://localhost:4000/blog/2018/12/08/08-trump-felony-link</id><content type="html" xml:base="http://localhost:4000/blog/2018/12/08/08-trump-felony-link.html">&lt;p&gt;The New York Times:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Federal prosecutors said on Friday that President Trump directed illegal payments to ward off a potential sex scandal that threatened his chances of winning the White House in 2016, putting the weight of the Justice Department behind accusations previously made by his former lawyer.&lt;/p&gt;
-
-  &lt;p&gt;The lawyer, Michael D. Cohen, had said that as the election neared, Mr. Trump directed payments to two women who claimed they had affairs with Mr. Trump. But in a new memo arguing for a prison term for Mr. Cohen, prosecutors in Manhattan said he “acted in coordination and at the direction of” an unnamed individual, clearly referring to Mr. Trump.&lt;/p&gt;
-
-  &lt;p&gt;In another filing, prosecutors for the special counsel investigating Russia’s 2016 election interference said an unnamed Russian offered Mr. Cohen “government level” synergy between Russia and Mr. Trump’s campaign in November 2015. That was months earlier than other approaches detailed in indictments secured by prosecutors.&lt;/p&gt;
-
-  &lt;p&gt;And in a separate case on Friday, the special counsel accused Paul Manafort, Mr. Trump’s campaign chairman, of lying about his contacts with an individual they accuse of having ties to Russian intelligence, and about his interactions with Trump administration officials after he was indicted on criminal charges.&lt;/p&gt;
-
-  &lt;p&gt;Together, the filings laid bare the most direct evidence to date linking Mr. Trump to potentially criminal conduct, and added to an already substantial case that Russia was seeking to sway the 2016 election in his favor.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In a column for the Washington Post, Marcy Wheeler makes that case the Mueller is laying out his report &lt;a href=&quot;https://www.washingtonpost.com/outlook/2018/12/07/mueller-has-already-issued-most-his-report-one-indictment-time/&quot;&gt;“one indictment at a time”&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;But Mueller has already been submitting his report, piece by piece, in indictments and other charging documents. He has hidden it in plain sight in the court dockets of individuals and organizations he has prosecuted. Many of those court papers have included far more detail than necessary to prove the culpability of defendants who have agreed to plead guilty. This isn’t just legal overkill on Mueller’s part — it’s the outlines of a sweeping narrative about the 2016 election.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">The New York Times:</summary></entry></feed>
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Anna Fifield at the Washington Post:</summary></entry></feed>
