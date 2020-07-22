@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twitter feigns interest, bans qAnon"
+title: "Twitter feigns interest, bans QAnon"
 date: 2020-07-21 22:26:56 -0500
 link: https://www.nbcnews.com/tech/tech-news/twitter-bans-7-000-qanon-accounts-limits-150-000-others-n1234541
 categories: blog
