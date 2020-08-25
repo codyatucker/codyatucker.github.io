@@ -10,13 +10,20 @@ font-family: Georgia, Times, "Times New Roman", serif;
 	font-style: italic;
 	font-variant: normal;
 	font-weight: 800;
-	line-height: 26px;}
+	line-height: 26px;
+	color: #f2f2f7;
+}
 
 a {
-     color:#111 !important;
-     &:hover{ color:#111 !important;}
+     color:#f2f2f7 !important;
+     &:hover{ color:#f2f2f7 !important;}
    }
 
+body
+{
+	background-color: #1c1c1e;
+	color: #f2f2f7;
+}
 
 body
 a {
@@ -65,7 +72,7 @@ blockquote {
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
       padding-right: 10px;
-      padding-left: 10px; } }    
+      padding-left: 10px; } }
 
 .site-header {
   border-top: 5px solid #a40000;
@@ -82,12 +89,13 @@ blockquote {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #f2f2f7; }
 
 .site-nav{
 font-family: Georgia, Times, "Times New Roman", serif;
 font-weight: 600;
 font-style: italic;
+color: inherit;
 }
 
 .site-footer {
