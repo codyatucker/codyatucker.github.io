@@ -6,7 +6,7 @@
 
 h1, h2, h3, h4, h5, h6,
 {
-font-family: Georgia, Times, "Times New Roman", serif;
+	font-family: Georgia, Times, "Times New Roman", serif;
 	font-style: italic;
 	font-variant: normal;
 	font-weight: 800;
@@ -14,6 +14,11 @@ font-family: Georgia, Times, "Times New Roman", serif;
 	color: #f2f2f7;
 }
 
+h1.post-title,
+{
+	font-size: 25px;
+	letter-spacing: normal;
+}
 a {
      color:#f2f2f7 !important;
      &:hover{ color:#f2f2f7 !important;}
@@ -82,7 +87,7 @@ blockquote {
 
 .site-title {
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 35px;
+  font-size: 38px;
   font-weight: 800;
   line-height: 54px;
   letter-spacing: 0px;

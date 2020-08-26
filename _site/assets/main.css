@@ -512,6 +512,10 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 26px;
   color: #f2f2f7; }
 
+h1.post-title {
+  font-size: 25px;
+  letter-spacing: normal; }
+
 a {
   color: #f2f2f7 !important; }
   a:hover {
@@ -581,7 +585,7 @@ blockquote > :last-child {
 
 .site-title {
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 35px;
+  font-size: 38px;
   font-weight: 800;
   line-height: 54px;
   letter-spacing: 0px;
